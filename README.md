@@ -5,3 +5,4 @@
 ## Interpolation
 ## Bulma
 ## NgIf
+![passwordapp](https://github.com/hasandgursoy/passwordApp/blob/main/PasswordApp.png)
